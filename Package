@@ -1,0 +1,14 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<package format="2">
+<name>grid_path_planner</name>
+<version>0.0.1</version>
+<description>A* grid-based path planning demo package</description>
+<maintainer email="you@example.com">Kedar S Ajai</maintainer>
+<license>MIT</license>
+<buildtool_depend>catkin</buildtool_depend>
+<exec_depend>rospy</exec_depend>
+<exec_depend>nav_msgs</exec_depend>
+<exec_depend>geometry_msgs</exec_depend>
+<exec_depend>visualization_msgs</exec_depend>
+<exec_depend>rviz</exec_depend>
+</package>
